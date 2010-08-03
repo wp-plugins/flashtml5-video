@@ -55,8 +55,8 @@ Visit <a href="http://labs.byhook.com/2010/07/28/html5-video-with-flash-fallback
 
 == Upgrade Notice ==
 
-= 1.0.0 =
-Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
+= 1.0.1 =
+Corrected readme and added more info to the admin panel
 
 == A brief Markdown Example ==
 
