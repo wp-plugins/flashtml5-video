@@ -65,7 +65,7 @@ function flashtml5_options() {
   }
 
 echo '<br /><br /><strong>Useage</strong><br />';
-echo 'Simply use the following short codes, paste in the main parameters from the library function, and the plugin will do the rest.  Also, do not forget to add the .htaccess file to the directory with your videos. Visit <a href="http://labs.byhook.com">Hook Labs</a> for more information.  An example of the plugin in action and associated code can be viewed <a href="http://labs.byhook.com">here</a>. <em>(All you really need to do is copy the code from the demo page, update the file names, change the sizes, and you will be good to go.<br /></em>';
+echo 'Simply use the following short codes, paste in the main parameters from the library function, and the plugin will do the rest.  Also, do not forget to add the .htaccess file to the directory with your videos. Visit <a href="http://labs.byhook.com/2010/07/30/flashtml5-the-javascript-library-and-wordpress-plugin/" target="_blank">Hook Labs</a> for more information.  An example of the plugin in action and associated code can be viewed <a href="http://labs.byhook.com/flashtml5-video-demo/" target="_blank">here</a>. <em>(All you really need to do is copy the code from the demo page, update the file names, change the sizes, and you will be good to go.<br /></em>';
 echo '<br />';
 echo '<strong>Shortcodes</strong><br />';
 echo '[FlasHTML5][/FlasHTML5]<br />';
@@ -134,7 +134,10 @@ echo 'desktopH264---------------The default h264 video for desktop users.<br />'
 echo 'desktopAdditionalVideos---Some browsers support different video formats. You can add additional ones and browsers will process from top-to-bottom until a compatible video is found.<br />';
 echo 'desktopFlashObject--------The flash object to embed for the flash fallback.<br />';
 echo 'desktopPosterImage--------The desktop poster image and fallback image in case a incompatible browser without flash is found.<br />';
-echo '*/<br /><br /><br /><br /><br /><br />';
+echo '*/<br />';
+echo '<br /><strong>Video Encodeding</strong><br />';
+echo 'Click <a href="http://labs.byhook.com/2010/07/28/html5-video-with-flash-fallback-and-vice-versa/" target="_blank">here</a> to learn more about encoding videos for HMTL5 and Mobile devices.';
+echo '<br /><br /><br /><br /><br /><br />';
 
 
 }
