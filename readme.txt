@@ -1,5 +1,6 @@
 === Plugin Name ===
 Contributors: hookstudios
+Donate link: http://www.byhook.com/
 Tags: html5, flash, video, mobile, fallback
 Requires at least: 2.0.2
 Tested up to: 3.0.1
