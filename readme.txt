@@ -47,9 +47,6 @@ Visit <a href="http://labs.byhook.com/2010/07/28/html5-video-with-flash-fallback
 
 == Changelog ==
 
-= 1.1 =
-* Corrected readme and added more info to the admin panel
-
 = 1.0 =
 * Initial Release
 
