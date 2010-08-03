@@ -36,6 +36,8 @@ Visit <a href="http://labs.byhook.com">Hook Labs</a> for more information
 
 Don't forget to add the .htaccess file to the directory with your videos.
 
+== Screenshots ==
+
 == Changelog ==
 
 = 1.0 =
