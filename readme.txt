@@ -10,7 +10,7 @@ A Wordpress implementation of the FlasHTML5 Video Javascript Library.
 
 == Description ==
 
-A Wordpress implementation of the FlasHTML5 Video Javascript Library.  Simply use the following short codes [FlasHTML5][/FlasHTML5], paste in the main parameters from the library function, and the plugin will do the rest. Also, do not forget to add the .htaccess file to the directory with your videos. An example of the plugin in action and associated code can be viewed <a href="http://labs.byhook.com">here</a>. (All you really need to do is copy the code from the demo page, update the file names, change the sizes, and you will be good to go. 
+A Wordpress implementation of the FlasHTML5 Video Javascript Library.  Simply use the following short codes [FlasHTML5][/FlasHTML5], paste in the main parameters from the library function, and the plugin will do the rest. Also, do not forget to add the .htaccess file to the directory with your videos. An example of the plugin in action and associated code can be viewed <a href="http://http://labs.byhook.com/flashtml5-video-demo/" target="_blank">here</a>. (All you really need to do is copy the code from the demo page, update the file names, change the sizes, and you will be good to go. 
 
 
 == Installation ==
@@ -27,11 +27,11 @@ e.g.
 
 = How do I use this plugin? =
 
-Simply use the following short codes [FlasHTML5][/FlasHTML5], paste in the main parameters from the library function, and the plugin will do the rest. An example of the plugin in action and associated code can be viewed <a href="http://labs.byhook.com">here</a>. (All you really need to do is copy the code from the demo page, update the file names, change the sizes, and you will be good to go. 
+Simply use the following short codes [FlasHTML5][/FlasHTML5], paste in the main parameters from the library function, and the plugin will do the rest. An example of the plugin in action and associated code can be viewed <a href="http://http://labs.byhook.com/flashtml5-video-demo/" target="_blank">here</a>. (All you really need to do is copy the code from the demo page, update the file names, change the sizes, and you will be good to go. 
 
 = Where can I learn move about the Javascript Library? =
 
-Visit <a href="http://labs.byhook.com">Hook Labs</a> for more information
+Visit <a href="http://labs.byhook.com/2010/07/30/flashtml5-the-javascript-library-and-wordpress-plugin/" target="_blank">Hook Labs</a> for more information
 
 = I have all the code correct, but my browser can't find the videos? =
 
