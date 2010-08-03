@@ -4,7 +4,7 @@ Donate link: http://www.byhook.com/
 Tags: html5, flash, video, mobile, fallback
 Requires at least: 2.0.2
 Tested up to: 3.0.1
-Stable tag: 1.0
+Stable tag: 1.0.0
 
 A Wordpress implementation of the FlasHTML5 Video Javascript Library.
 
