@@ -60,4 +60,17 @@ Corrected readme and added more info to the admin panel
 
 == A brief Markdown Example ==
 
-A Wordpress implementation of the FlasHTML5 Video Javascript Library.  Simply use the following short codes [FlasHTML5][/FlasHTML5], paste in the main parameters from the library function, and the plugin will do the rest. Also, do not forget to add the .htaccess file to the directory with your videos. <br /><br />An example of the plugin in action and associated code can be viewed <a href="http://http://labs.byhook.com/flashtml5-video-demo/" target="_blank">here</a>. (All you really need to do is copy the code from the demo page, update the file names, change the sizes, and you will be good to go. 
+A Wordpress implementation of the FlasHTML5 Video Javascript Library.  Simply use the following short codes [FlasHTML5][/FlasHTML5], paste in the main parameters from the library function, and the plugin will do the rest. Also, do not forget to add the .htaccess file to the directory with your videos. <br /><br />An example of the plugin in action and associated code can be viewed <a href="http://http://labs.byhook.com/flashtml5-video-demo/" target="_blank">here</a>. (All you really need to do is copy the code from the demo page, update the file names, change the sizes, and you will be good to go. <br /><br />
+
+`[FlasHTML5]
+useFlashFirst:false,
+mobileVideoObject: new HTML5VideoObject(480,192, {"autobuffer":"autobuffer","controls":"controls"}),
+mobileH264: new HTML5VideoAsset("http://labs.byhook.com/html5video/telematics_mobile.mp4","video/mp4"),
+mobilePosterImage: new HTML5VideoImage("http://labs.byhook.com/html5video/telematics_mobile.jpg", 480, 192, "telematics", "No video playback capabilities."),
+androidPosterImage: new HTML5VideoImage("http://labs.byhook.com/html5video/telematics_mobile_play.jpg", 480, 192),
+desktopVideoObject: new HTML5VideoObject(980, 390, {"autobuffer":"autobuffer","controls":"controls"}),
+desktopH264: new HTML5VideoAsset("http://labs.byhook.com/html5video/telematics_desktop.mp4","video/mp4"),
+desktopAdditionalVideos: [new HTML5VideoAsset("http://labs.byhook.com/html5video/telematics_desktop.ogv","video/ogg"), new HTML5VideoAsset("http://labs.byhook.com/html5video/telematics_desktop.webm","video/webm")],
+desktopFlashObject: new HTML5VideoFlashObject("http://labs.byhook.com/html5video/player.swf", 980, 414, {"allowFullScreen":"true", "flashvars":"file=http://labs.byhook.com/html5video/telematics_desktop.flv&image=http://labs.byhook.com/html5video/telematics_desktop.jpg"}),
+desktopPosterImage: new HTML5VideoImage("http://labs.byhook.com/html5video/telematics_desktop.jpg", 980, 390, "telematics", "No video playback capabilities.")
+[/FlasHTML5]`
