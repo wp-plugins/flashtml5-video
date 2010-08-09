@@ -10,7 +10,16 @@ A Wordpress implementation of the FlasHTML5 Video Javascript Library.
 
 == Description ==
 
-A Wordpress implementation of the FlasHTML5 Video Javascript Library.  Simply use the following short codes [FlasHTML5][/FlasHTML5], paste in the main parameters from the library function, and the plugin will do the rest. Also, do not forget to add the .htaccess file to the directory with your videos. <br /><br />An example of the plugin in action and associated code can be viewed <a href="http://labs.byhook.com/flashtml5-video-demo/" target="_blank">here</a>. (All you really need to do is copy the code from the demo page, update the file names, change the sizes, and you will be good to go. 
+A Wordpress implementation of the FlasHTML5 Video Javascript Library featuring HTML5 / Flash Video with Mobile Fallback.  Supported Platforms include:<br />
+<br />
+- Modern Browsers (HTML5)<br />
+- All Browsers (Flash)<br />
+- Android (HTML5)<br />
+- iPhone (HTML5)<br />
+- iPad (HTML5)<br />
+- iPod (HTML5)<br />
+<br />
+Simply use the following short codes [FlasHTML5][/FlasHTML5], paste in the main parameters from the library function, and the plugin will do the rest. Also, do not forget to add the .htaccess file to the directory with your videos. <br /><br />An example of the plugin in action and associated code can be viewed <a href="http://labs.byhook.com/flashtml5-video-demo/" target="_blank">here</a>. (All you really need to do is copy the code from the demo page, update the file names, change the sizes, and you will be good to go. 
 
 
 == Installation ==
